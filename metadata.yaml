@@ -1,0 +1,20 @@
+_repo: For-Auld-Lang-Syne-A-Book-Of-Friendship_7019
+contributor:
+  compiler:
+    agent_name: Woodward, Ray
+    gutenberg_agent_id: '2307'
+    url: http://www.gutenberg.org/2009/agents/2307
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Quotations, maxims, etc.'
+- !lcc 'BJ'
+title: 'For Auld Lang Syne: A Book Of Friendship'
+url: http://www.gutenberg.org/ebooks/7019
